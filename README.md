@@ -90,7 +90,7 @@ Converts research output into simple, understandable explanations.
 
 ## Dependencies
 
-- `Microsoft.Agents.AI.Foundry` (v1.0.0)
+- `Microsoft.Agents.AI.Foundry` (v1.0.0)(for upcoming versions)
 
 ## Contributing
 
